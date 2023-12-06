@@ -30,7 +30,7 @@ git clone https://github.com/Joezanini/login_with_webex.git
 4. Navigate into the project directory:
 
 ```bash
-cd your-project-directory
+cd login_with_webex
 ```
 
 5. Install the dependencies using pip:
