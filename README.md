@@ -24,7 +24,7 @@ To install the project dependencies, follow these steps:
 3. Clone the repository using this command:
 
 ```bash
-git clone https://github.com/your-project-url.git
+git clone https://github.com/Joezanini/login_with_webex.git
 ```
 
 4. Navigate into the project directory:
