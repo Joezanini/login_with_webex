@@ -1,0 +1,6 @@
+streamlit 
+webbrowser 
+os 
+requests 
+json 
+jwt
