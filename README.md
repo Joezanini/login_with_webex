@@ -41,7 +41,8 @@ pip install -r installer.txt
 
 ## Usage
 
-This project uses Python and Streamlit to create a web application. The main application script is `login.py`.
+This project uses Python and Streamlit to create a web application. The main application script is `login.py`. Before running this application, be sure to update
+`settings.py` with your Webex integration `clientID`, and `secretID`.
 
 To run the application:
 
